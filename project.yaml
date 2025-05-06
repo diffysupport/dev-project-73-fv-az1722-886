@@ -1,5 +1,5 @@
 basic:
-    name: 'Abernathy Ltd'
+    name: 'Ruecker, Mayert and Boyer'
     environments:
         production: 'https://www.mos.org/'
         staging: ''
